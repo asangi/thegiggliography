@@ -1,0 +1,51 @@
+/*body {
+	background-color: black;
+	color: white;
+}*/
+.gig-head {
+	background: url("images/sky.gif");
+	max-width: 100%;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	
+}
+
+.gig-head h1 {
+	color: white;
+	letter-spacing: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: monospace;
+	font-size: 60px;
+
+}
+footer {
+	text-align: right;
+	color: white;
+}
+
+body {
+	background-color: black;
+}
+
+h3 {
+	font-family: monospace;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+p {
+	font-family: monospace;
+	text-align: justify;
+}
+
+.quote {
+	font-family: normal;
+	font-style: oblique;
+}
+
+
+.white-text {
+	color: white;
+}
